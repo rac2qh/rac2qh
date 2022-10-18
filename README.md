@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rac2qh&label=Profile%20views&color=0e75b6&style=flat" alt="rac2qh" /> </p>
 
-I'm currently working on <a href="www.redwanc.com">My Website</a>
-
 - 🔭 I’m currently working on [My Website](www.redwanc.com)
 
 - 🌱 I’m currently learning **Microsoft Azure & Amazon AWS**
