@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Microsoft Azure & Amazon AWS**
 
-- 💬 Ask me about **JAVA, SQL, life**
+- 💬 Ask me about **Python, JAVA, SQL, life**
 
 - 📫 How to reach me **redwan.arman.chowdhury@gmail.com**
 
