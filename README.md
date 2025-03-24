@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My Website](https://www.redwanc.com)
 
-- 🌱 I’m currently learning **Microsoft Azure & Amazon AWS**
+- 🌱 I’m currently learning **LINUX**
 
 - 💬 Ask me about **Python, JAVA, SQL, life**
 
